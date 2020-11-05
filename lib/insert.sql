@@ -1,1 +1,1 @@
-INSERT INTO bears (name, age, gender, color, temperament, alive) 
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Mr. Cholocalte', 34, 'Male', 'Brownish', 'Saucy', true);
